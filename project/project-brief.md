@@ -278,7 +278,7 @@ Usar datos no solo mejora la decisión: cambia el proceso, que pasa de reacciona
 
 Los hallazgos de la exploración permiten estimar el impacto. La figura 1 muestra el desajuste estacional que la regla actual no recoge:
 
-![](figures/lo2_fig1_riesgo_mes.png)
+![](Figures/lo2_fig1_riesgo_mes.png)
 
 Figura 1. Porcentaje de registros diarios en riesgo y sobrecubiertos por mes (2024). Fuente: elaboración propia a partir de Ziya07 (s.f.), cuaderno `01_eda_inventario.ipynb`.
 
@@ -288,7 +288,7 @@ Figura 1. Porcentaje de registros diarios en riesgo y sobrecubiertos por mes (20
 
 La figura 2 explica por qué las dos reglas señalan casos distintos: el riesgo crece con el plazo del proveedor, una variable que el punto de pedido actual no tiene en cuenta.
 
-![](figures/lo2_fig2_riesgo_plazo.png)
+![](Figures/lo2_fig2_riesgo_plazo.png)
 
 Figura 2. Porcentaje medio de días en riesgo de cada combinación SKU-almacén según el plazo de entrega del proveedor (250 combinaciones). Fuente: elaboración propia a partir de Ziya07 (s.f.).
 
